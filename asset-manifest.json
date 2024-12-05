@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/five-in-a-row/static/css/main.2783fd52.css",
+    "main.js": "/five-in-a-row/static/js/main.2d620ee4.js",
+    "index.html": "/five-in-a-row/index.html",
+    "main.2783fd52.css.map": "/five-in-a-row/static/css/main.2783fd52.css.map",
+    "main.2d620ee4.js.map": "/five-in-a-row/static/js/main.2d620ee4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2783fd52.css",
+    "static/js/main.2d620ee4.js"
+  ]
+}
